@@ -1,2 +1,1 @@
-Homework 2
-Analyzing Medicare data from 2014-2019
+Homework 2: Analyzing Medicare data from the years of 2014-2019
